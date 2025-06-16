@@ -19,7 +19,7 @@ header .container {
 header .sub_container {
     display: flex;
     align-items: center;
-    gap: 65px;
+    gap: 68px;
 }
 
 header nav ul {
